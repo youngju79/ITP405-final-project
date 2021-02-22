@@ -16,4 +16,4 @@ Delete: Registered users will be able to remove their pet from the adoption list
 
 **4. What additional feature would you like to build?**
 
-My web application will have a favorite section that will display all the favorited pets of a user. Users will be able to add a pet that they are interested in by clicking on the favorite button next to the pet's profile. In the favorite section, there will be information of each favorited pet which includes the timestap of when the user favorited the pet and a remove button in case the user chooses to unfavorite the pet. 
+My web application will have a favorite section that will display all the favorited pets of a registered user. Users who are signed in will be able to add a pet that they are interested in by clicking on the favorite button next to the pet's profile. In the favorite section, there will be information of each favorited pet which includes the timestap of when the user favorited the pet and a remove button in case the user chooses to unfavorite the pet. 
